@@ -1,0 +1,29 @@
+<svg width="400" height="160" viewBox="0 0 400 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="160" fill="white" />
+
+  <!-- Building silhouette -->
+  <path d="M30 120 L30 50 L70 50 L70 70 L90 70 L90 50 L130 50 L130 120 Z" fill="#1e40af" />
+  <rect x="40" y="70" width="16" height="16" fill="#dbeafe" />
+  <rect x="64" y="70" width="16" height="16" fill="#dbeafe" />
+  <rect x="40" y="94" width="16" height="16" fill="#dbeafe" />
+  <rect x="64" y="94" width="16" height="16" fill="#dbeafe" />
+  <rect x="90" y="80" width="30" height="30" fill="#dbeafe" />
+
+  <!-- Arabic text for "سوادا" -->
+  <text x="160" y="80" font-family="Cairo, sans-serif" font-size="56" font-weight="800" fill="#1e40af">سوادا</text>
+
+  <!-- English text -->
+  <text x="160" y="115" font-family="Arial, sans-serif" font-size="28" font-weight="600" fill="#64748b" letter-spacing="2">CONTRACTING</text>
+
+  <!-- Construction crane element -->
+  <path d="M330 40 L330 110 L350 110" stroke="#1e40af" stroke-width="6" fill="none" />
+  <path d="M320 40 L340 40 L330 20 Z" fill="#1e40af" />
+  <circle cx="330" cy="110" r="6" fill="#1e40af" />
+  <path d="M330 60 L360 50" stroke="#1e40af" stroke-width="4" />
+  <rect x="356" y="46" width="12" height="8" fill="#f59e0b" />
+
+  <!-- Tool element -->
+  <path d="M280 100 L290 90 L300 100 L290 110 Z" fill="#dc2626" />
+  <rect x="286" y="106" width="8" height="30" fill="#dc2626" />
+</svg>

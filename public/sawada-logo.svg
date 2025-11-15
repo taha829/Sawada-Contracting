@@ -1,0 +1,23 @@
+<svg width="200" height="80" viewBox="0 0 200 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background shape representing construction/building -->
+  <rect x="10" y="25" width="60" height="45" fill="#1e40af" />
+  <rect x="10" y="25" width="60" height="8" fill="#2563eb" />
+  <rect x="20" y="40" width="15" height="15" fill="#dbeafe" />
+  <rect x="45" y="40" width="15" height="15" fill="#dbeafe" />
+
+  <!-- Arabic text for "سوادا" -->
+  <text x="80" y="45" font-family="Cairo, sans-serif" font-size="24" font-weight="bold" fill="#1e40af">سوادا</text>
+
+  <!-- English text for "Sawada" -->
+  <text x="80" y="65" font-family="Arial, sans-serif" font-size="16" font-weight="500" fill="#64748b">CONTRACTING</text>
+
+  <!-- Construction elements -->
+  <path d="M160 20 L180 20 L180 40 L170 50 L160 40 Z" fill="#f59e0b" />
+  <rect x="165" y="25" width="10" height="2" fill="#fbbf24" />
+  <rect x="165" y="30" width="10" height="2" fill="#fbbf24" />
+  <rect x="165" y="35" width="10" height="2" fill="#fbbf24" />
+
+  <!-- Tools icon -->
+  <path d="M140 50 L145 45 L150 50 L145 55 Z" fill="#dc2626" />
+  <rect x="143" y="53" width="4" height="15" fill="#dc2626" />
+</svg>
