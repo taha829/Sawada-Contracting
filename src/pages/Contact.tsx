@@ -105,8 +105,8 @@ const Contact = () => {
                       </div>
                       <div className={language === "ar" ? "text-right" : ""}>
                         <h3 className={`font-semibold mb-1 ${language === "ar" ? "font-arabic" : ""}`}>{t("contact.phoneLabel")}</h3>
-                        <a href="tel:0782633162" className="text-muted-foreground hover:text-primary transition-colors">
-                          0782633162
+                        <a href="tel:0790820045" className="text-muted-foreground hover:text-primary transition-colors">
+                          0790820045
                         </a>
                       </div>
                     </div>

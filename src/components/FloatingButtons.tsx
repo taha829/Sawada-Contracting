@@ -10,7 +10,7 @@ const FloatingButtons = () => {
         className="rounded-full w-14 h-14 shadow-lg hover:shadow-xl transition-all"
         asChild
       >
-        <a href="tel:0782633162" aria-label="Call us">
+        <a href="tel:0790820045" aria-label="Call us">
           <Phone className="h-6 w-6" />
         </a>
       </Button>
